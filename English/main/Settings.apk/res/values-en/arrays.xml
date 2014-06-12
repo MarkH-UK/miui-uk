@@ -166,18 +166,6 @@
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
     </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa</item>
-        <item>@string/wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>
@@ -489,16 +477,6 @@
         <item>Animation scale 5x</item>
         <item>Animation scale 10x</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>None</item>
         <item>Logcat</item>
@@ -635,14 +613,6 @@
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
-    <string-array name="mi2_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
@@ -674,14 +644,6 @@
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
-    <string-array name="msd_pc_system_install_start_summary">
-        <item>"For Windows XP and older versions of Windows,
-driver must be installed manually"</item>
-        <item>@string/msd_pc_system_install_start_summary_vista</item>
-        <item>"For Mac OS,
-driver must be installed manually"</item>
-        <item></item>
-    </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
         <item>"(Ignore the Setup Wizard)
 When connected, Xiaomi will appear as a USB mass storage device.
@@ -689,19 +651,6 @@ When connected, Xiaomi will appear as a USB mass storage device.
         <item></item>
         <item>"When connected, Xiaomi will appear as a USB mass storage device on your desktop.
 Open and select AndroidFileTransfer.dmg to install."</item>
-        <item></item>
-    </string-array>
-    <array name="msd_pc_system_install_step_2_summary">
-        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
-        <item></item>
-        <item>Transfer files like you would to any other external hard drive.</item>
-        <item></item>
-    </array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>"When you install this driver
-phone will open automatically when connected to a computer."</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
@@ -716,10 +665,6 @@ phone will open automatically when connected to a computer."</item>
     <string-array name="startup_hips_action">
         <item>Allow</item>
         <item>Deny</item>
-    </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Native</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single-mic noise suppression</item>

@@ -288,7 +288,6 @@
   <string name="battery_stats_charging_label">Charging</string>
   <string name="battery_stats_duration">%1$s since unplugged</string>
   <string name="battery_stats_gps_on_label">GPS on</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s on battery</string>
   <string name="battery_stats_phone_signal_label">Mobile network signal</string>
   <string name="battery_stats_screen_on_label">Screen on</string>
@@ -482,7 +481,6 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="brightness_auto_adjust_off">Manual brightness can be adjusted to your liking by moving slider. Screen brightness will remain unchanged in any surrounding.</string>
   <string name="brightness_auto_adjust_on">Auto brightness effect can be adjusted by moving slider. Screen brightness effect will vary with your adjustment and surroundings.</string>
   <string name="brightness_summary">Adjust the brightness of the screen</string>
-  <string name="bssid_label">BSSID:</string>
   <string name="build_number">Build number</string>
   <string name="builtin_keyboard_settings_summary">Physical keyboard settings</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
@@ -561,7 +559,6 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="common_settings">Quick settings</string>
   <string name="complete_settings">All settings</string>
   <string name="computing_size">Computing…</string>
-  <string name="config_list_label">Configured networks</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
@@ -721,7 +718,6 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="debug_debugging_category">Debugging</string>
   <string name="debug_drawing_category">Drawing</string>
   <string name="debug_input_category">Input</string>
-  <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Show layout bounds</string>
   <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
   <string name="debug_log">User experience program</string>
@@ -784,7 +780,6 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
   <string name="dirac_mode_off">Dirac Off</string>
   <string name="dirac_mode_piston_100">Xiaomi piston headphones</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_adb_debug_summary">Disable USB debugging</string>
   <string name="disable_anti_spam_summary">Message filter disabled</string>
   <string name="disable_app_permission_summary">Permission monitor is off</string>
@@ -793,7 +788,6 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="disable_power_key_long_press_under_keyguard">Disable on lockscreen</string>
   <string name="disable_text">Disable</string>
   <string name="disabled">Disabled</string>
-  <string name="disconnect">disconnect</string>
   <string name="display_font_size_label">Font size:</string>
   <string name="display_label">Screen</string>
   <string name="display_order_text">Sort by:</string>
@@ -888,7 +882,6 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
   <string name="emptylist_fwlog_call">Blocked calls will be logged here.</string>
   <string name="emptylist_fwlog_ms">All blocked SMS and MMS messages will be logged here.</string>
-  <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_debug_summary">When connected via USB, use the ADB command</string>
   <string name="enable_adb_debug_title">Enable USB debugging</string>
@@ -1041,8 +1034,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="gadget_toggle_bluetooth">Updating Bluetooth settings</string>
   <string name="gadget_toggle_wifi">Updating Wi-Fi settings</string>
   <string name="game_controller_settings_category">Game Controller</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration level</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
@@ -1075,18 +1066,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="heavy_weight_stop_description">"This app can't safely be stopped. If you stop it, you may lose some of your current work."</string>
   <string name="hello_world">Hello world!</string>
   <string name="help_label">Help</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
-  <string name="hidden_ssid_label">Hidden SSID:</string>
   <string name="history_details_title">History details</string>
   <string name="home_key">Home key</string>
   <string name="ime_security_warning">%1$s can save all text typed, including personal data (i.e. passwords and credit card numbers). Use this input method?</string>
@@ -1131,7 +1110,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="internal_storage">Internal storage</string>
   <string name="invalid_location">"Install location isn't valid."</string>
   <string name="invalid_size_value">"Couldn't compute package size."</string>
-  <string name="ipaddr_label">IPaddr:</string>
   <string name="item_app_permission">App permissions</string>
   <string name="item_install_monitor">Install monitor</string>
   <string name="item_mms">Filter unwanted messages</string>
@@ -1177,7 +1155,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="led_settings">LED</string>
   <string name="legal_information">Legal information</string>
   <string name="license_title">License</string>
-  <string name="link_speed_label">Link speed:</string>
   <string name="list_sub_view_item_clean">Clean</string>
   <string name="list_sub_view_item_install">Install</string>
   <string name="list_sub_view_item_lock">Locked</string>
@@ -1270,7 +1247,6 @@ Ready to start? Touch Next."</string>
   <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
-  <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Main process in use.</string>
   <string name="man_add_application">Manually add auto start apps</string>
   <string name="manage_device_admin">Device administrators</string>
@@ -1416,8 +1392,6 @@ try the following:
   <string name="network_assistant">Data usage</string>
   <string name="network_detail">%s Network details</string>
   <string name="network_settings_title">Mobile networks</string>
-  <string name="network_state_label">Network state:</string>
-  <string name="networkid_label">Network ID:</string>
   <string name="networks">Operator selection</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
   <string name="new_bw_list_button">Add contact</string>
@@ -2056,7 +2030,6 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="roaming_reenable_title">Allow data roaming?</string>
   <string name="roaming_turn_it_on_button">Turn it on</string>
   <string name="roaming_warning">When you allow data roaming, you may incur significant roaming charges!</string>
-  <string name="rssi_label">RSSI:</string>
   <string name="rubbish_cleaning">System cleanup</string>
   <string name="running_processes_item_description_p_p">%1$d processes and %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processes and %2$d service</string>
@@ -2071,7 +2044,6 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="runningservices_settings_title">Running services</string>
   <string name="save_button">Save</string>
   <string name="scan_done">Scan complete</string>
-  <string name="scan_list_label">Scan results:</string>
   <string name="scanning_virus">Scanning...</string>
   <string name="score">Score</string>
   <string name="score_good_state">Phone is already optimized</string>
@@ -2287,7 +2259,6 @@ Attempts Remaining :"</string>
   <string name="spellchecker_quick_settings">Settings</string>
   <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
   <string name="spellcheckers_settings_title">Spell checker</string>
-  <string name="ssid_label">SSID:</string>
   <string name="start_checking_memory">Checking memory condition...</string>
   <string name="start_checking_protection">Checking realtime protection...</string>
   <string name="start_checking_trash">Checking application cache...</string>
@@ -2337,14 +2308,12 @@ Attempts Remaining :"</string>
   <string name="subscription_02_summary">Set options for SUB2 network settings</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Choose a network operator</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
   <string name="summary_permission">Protect my privacy from third-party apps</string>
   <string name="summary_usb">Avoid viruses spreading via USB connection</string>
   <string name="summary_virus">Found %2$d viruses</string>
   <string name="summary_virus_update">Update virus definitions automatically when connected to Wi-Fi</string>
-  <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sync_active">Sync active</string>
   <string name="sync_automatically">Auto-sync app data</string>
   <string name="sync_calendar">Calendar</string>
@@ -2377,7 +2346,6 @@ Attempts Remaining :"</string>
   <string name="testing_phone_info">Phone information</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
-  <string name="testing_wifi_info">Wi-Fi information</string>
   <string name="tether_settings_title_all">Tethering</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
@@ -2385,7 +2353,6 @@ Attempts Remaining :"</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Time</string>
-  <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Time zone</string>
   <string name="title_app_update_no">%d apps have updates</string>
   <string name="title_app_update_yes">All apps up to date</string>
@@ -2774,7 +2741,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_advanced_mac_address_title">MAC address</string>
   <string name="wifi_advanced_settings_label">IP settings</string>
   <string name="wifi_advanced_titlebar">Advanced Wi-Fi</string>
-  <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Auto connect</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_certificate">Certificate</string>
@@ -2789,9 +2755,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_eap_anonymous">Anonymous identity</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">Identity</string>
@@ -2808,10 +2772,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_failed_save_message">Failed to save network</string>
   <string name="wifi_forget">Forget</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">In Airplane mode</string>
   <string name="wifi_ip_address">IP address</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP settings</string>
   <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
   <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
@@ -2830,7 +2792,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_menu_wps_pin">WPS pin entry</string>
   <string name="wifi_more">More</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Not in range</string>
   <string name="wifi_notify_open_networks">Network notification</string>
   <string name="wifi_notify_open_networks_summary">Notify me when an open network is available</string>
@@ -2866,19 +2827,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_security">Security</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
   <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi frequency band</string>
@@ -2956,11 +2907,6 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_speed">Link speed</string>
   <string name="wifi_ssid">Network SSID</string>
   <string name="wifi_starting">Turning Wi-Fi on...</string>
-  <string name="wifi_state_disabled">Disabled</string>
-  <string name="wifi_state_disabling">Disabling</string>
-  <string name="wifi_state_enabled">Enabled</string>
-  <string name="wifi_state_enabling">Enabling</string>
-  <string name="wifi_state_label">Wi-Fi state:</string>
   <string name="wifi_state_unknown">Unknown</string>
   <string name="wifi_status">Status</string>
   <string name="wifi_status_test">Wi-Fi status</string>
@@ -2973,7 +2919,6 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_tether_failed_subtext">Portable Wi-Fi hotspot error</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
-  <string name="wifi_update">Refresh stats</string>
   <string name="wifi_wapi_as_cert">AS Certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel</string>
   <string name="wifi_wapi_cert_create_subdir">Create a directory</string>

@@ -17,7 +17,6 @@
   <string name="administrative_disable">Administrative disabled</string>
   <string name="administrative_enable">Administrative enabled</string>
   <string name="advanced_settings">Optional settings</string>
-  <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ Touch to hide all</string>
   <string name="advanced_settings_show">▷ Touch to show all</string>
   <string name="advertisements_disable">Advertisements disabled</string>
@@ -56,7 +55,6 @@
   <string name="audio_mode_earpiece">Handset earpiece</string>
   <string name="audio_mode_speaker">Speaker</string>
   <string name="audio_mode_wired_headset">Wired headset</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Username used for authentication</string>
   <string name="auth_username_title">Authentication username</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -308,9 +306,7 @@
   <string name="default_contacts_countrycode_hint_miui">Enter country code e.g 44 for UK</string>
   <string name="default_contacts_countrycode_miui">Default contacts country code</string>
   <string name="default_contacts_countrycode_sum_miui">Set the default country code of your contacts</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Not set&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Delete</string>
   <string name="deleteAllSimEntries">Delete All SIM card contacts</string>
   <string name="deleteSimContacts">Deleting SIM card contacts...</string>
@@ -365,10 +361,8 @@
   <string name="disable_pin_ok">SIM PIN disabled</string>
   <string name="disable_sim_pin">Disable SIM PIN</string>
   <string name="disable_sim_pin_miui">Disable SIM PIN</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Same as username&gt;</string>
   <string name="display_name_title">Display name</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Done</string>
   <string name="dtmf_tone_enable_title">Dial pad touch tones</string>
@@ -717,7 +711,6 @@ Switch to the new provider anyway?"</string>
   <string name="ota_unsuccessful">"Your phone did not activate. You may need to find an area with better coverage (near a window, or outside). Try again or call customer service for more options."</string>
   <string name="other_settings">Other call settings</string>
   <string name="other_settings_miui">Other settings</string>
-  <string name="password">Password</string>
   <string name="password_title">Password</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Sending Tones"</string>
@@ -753,7 +746,6 @@ Switch to the new provider anyway?"</string>
   <string name="pin_progress_unlock_icc_miui">Unlocking SIM card…</string>
   <string name="place_a_call1">Subscription 1</string>
   <string name="place_a_call2">Subscription 2</string>
-  <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="pref_custom_location_summary_miui">Customize regional attribution and number attribution</string>
   <string name="pref_custom_location_title_miui">Customize attribution</string>
@@ -794,7 +786,6 @@ Switch to the new provider anyway?"</string>
   <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback Mode</string>
   <string name="prompt">Prompt</string>
   <string name="prompt_user">Prompt User</string>
-  <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Outbound proxy address</string>
   <string name="pstn_phone">Cell phone call</string>
   <string name="puk2_blocked">PUK2 is permanently blocked.</string>
@@ -891,11 +882,9 @@ Switch to the new provider anyway?"</string>
   <string name="select_automatically">Choose automatically</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Send</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Send keep-alive</string>
   <string name="separate_from_conference_miui">Single Call</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Preferred network type only available when data is disabled</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Used for outbound calls</string>
   <string name="set_primary_title">Set as primary account</string>
   <string name="set_smsc_address_error_miui">Failed to set the SMS centre number, please try again later.</string>
@@ -938,10 +927,7 @@ Switch to the new provider anyway?"</string>
   <string name="sip_accounts">Internet calling (SIP) accounts</string>
   <string name="sip_accounts_title">Accounts</string>
   <string name="sip_add_account_tip_text">Please add a SIP account to use Internet calling</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Always send</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">For all calls when data network is available</string>
   <string name="sip_call_options_entry_2">Internet calls only</string>
   <string name="sip_call_options_entry_3">Prompt for each call</string>
@@ -1034,7 +1020,6 @@ Switch to the new provider anyway?"</string>
   <string name="throttle_time_frame">Data use period</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed. Next period starts in %2$d days (%3$s)"</string>
   <string name="title_data_settings">Data Settings</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Transport type</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1058,7 +1043,6 @@ Switch to the new provider anyway?"</string>
   <string name="updating_fdn_contact">Updating fixed dialing number (FDN)...</string>
   <string name="updating_settings">Updating Settings...</string>
   <string name="updating_title">Update Call Settings</string>
-  <string name="username">Username</string>
   <string name="username_title">Username</string>
   <string name="ussdRunning">USSD code running…</string>
   <string name="vibrate_on_ring_title">Vibrate when ringing</string>

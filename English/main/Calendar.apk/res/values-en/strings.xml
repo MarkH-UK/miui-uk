@@ -37,7 +37,6 @@
   <string name="birthday_event_description">"Today is %1$s's birthday!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 days until the birthday (%3$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to say happy birthday!"</string>
@@ -159,9 +158,6 @@
   <string name="no_title_label">(No title)</string>
   <string name="not_synced">not synced</string>
   <string name="pengzu"/>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="preferences_about_title">About</string>
   <string name="preferences_alerts_popup_title">Pop-up notification</string>

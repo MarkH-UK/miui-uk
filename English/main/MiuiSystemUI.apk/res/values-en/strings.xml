@@ -107,7 +107,6 @@
   <string name="ext_media_unmountable_notification_title">Damaged SD card storage</string>
   <string name="filter_item_description">You can \"Settings-Notification bar settings-custom notification\" notification type set in the application</string>
   <string name="filter_item_preview_image">Preview</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="headset_custom">Customise</string>
