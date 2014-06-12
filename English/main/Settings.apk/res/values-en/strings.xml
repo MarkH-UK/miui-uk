@@ -2907,9 +2907,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_speed">Link speed</string>
   <string name="wifi_ssid">Network SSID</string>
   <string name="wifi_starting">Turning Wi-Fi on...</string>
-  <string name="wifi_state_unknown">Unknown</string>
   <string name="wifi_status">Status</string>
-  <string name="wifi_status_test">Wi-Fi status</string>
   <string name="wifi_stopping">Turning off Wi-Fi...</string>
   <string name="wifi_tether_checkbox_text">Portable Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Set up Wi-Fi hotspot</string>
