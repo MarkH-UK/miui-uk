@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="webapp_settings_title">Settings</string>
+  <string name="webapp_webapp_favortes_title">My favourites</string>
+  <string name="webapp_dialog_title">Add app to home screen</string>
+  <string name="webapp_menu_already_addtodesk">Already added to home screen</string>
+  <string name="webapp_menu_exit">Exit</string>
+  <string name="webapp_menu_favorites">My favourites</string>
+  <string name="webapp_menu_nightmode">Night mode</string>
+  <string name="webapp_menu_settings">Settings</string>
+  <string name="webapp_menu_share">Share</string>
+  <string name="webapp_app_name">App store</string>
+  <string name="webapp_add_to_desktop">Add to home screen</string>
+  <string name="webapp_add_to_favorite_toast">Added to favourite list</string>
+  <string name="webapp_addtodeskpop_append">Added successfully</string>
+  <string name="cloud_up_to_loading_tips">Release to sync</string>
+  <string name="sub_sync_item_browser_title_webapp">Sync web app</string>
+  <string name="sub_sync_item_browser_title_webapp_summary">Sync added web apps and my favourites</string>
+  <string name="pref_webapp_settings_savewidth">"2G/3G won't download images"</string>
+  <string name="pref_webapp_settings_hidebottombar">Always hide bottom bar</string>
+  <string name="pref_webapp_settings_fontsize">Font size</string>
+  <string name="up_to_loading_tips">Release to refresh</string>
+  <string name="dialog_geolocation_reject">Reject</string>
+  <string name="dialog_geolocation_share">Accept</string>
+  <string name="cloud_time_tips">Last sync time</string>
+  <string name="cloud_up_to_loading_tips">Release to sync</string>
+  <string name="cloud_loading_tips">Pull down to sync</string>
+  <string name="cloud_no_new_data_toast">No new data, please try again later.</string>
   <string name="MIUI_startpage">Start page</string>
   <string name="accessibility_button_addbookmark">Bookmark page</string>
   <string name="accessibility_button_back">Go back</string>

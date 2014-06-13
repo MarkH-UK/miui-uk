@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="upgrade">Upgrade</string>
+  <string name="start_addon">Open add-on</string>
+  <string name="pick_addon_to_delete">Select item(s)</string>
+  <string name="no_hot_special">No popular add-ons</string>
+  <string name="install_comfirm">Install</string>
+  <string name="delete_addon">Delete</string>
+  <string name="delete_addon_content">Delete this add-on item?</string>
+  <string name="addon"/>
+  <string name="addon_category">Popular categories</string>
+  <string name="addon_install_complete_disc">Successfully installed %s.</string>
+  <string name="addon_update_desc">New version found, update now?</string>
+  <string name="add_more_addons">Add more add-ons</string>
   <string name="about_app_name">MiPlayer</string>
   <string name="about_developer_label">Developer</string>
   <string name="about_developer_name">MIUI</string>
