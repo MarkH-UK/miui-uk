@@ -387,7 +387,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
   <string name="send_message_dlg_check_hint">Remember choice</string>
-  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service. (Post-service is a platform by CMCC that can manage devices. It provides a service for remote settings and app updates). A free message will be sent for registration. The message will be sent once and won't read your personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to the service terms. Select “Cancel” to exit and no service will be provided from CMCC.</string>
+  <string name="send_message_dlg_mgs">"CMCC notice: We need to register your device to device management platform to provide the free post-service. (Post-service is a platform by CMCC that can manage devices. It provides a service for remote settings and app updates). A free message will be sent for registration. The message will be sent once and won't read your personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to the service terms. Select “Cancel” to exit and no service will be provided from CMCC."</string>
   <string name="send_message_dlg_title">Device Management</string>
   <string name="send_message_notification_msg">Device Management send permissions request</string>
   <string name="send_message_notification_tickerText">Device Management permissions request</string>
