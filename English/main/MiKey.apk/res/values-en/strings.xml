@@ -9,6 +9,8 @@
   <string name="action_lock_screen">Lockscreen</string>
   <string name="action_open_camera">Camera</string>
   <string name="action_open_camera2">Gallery</string>
+  <string name="action_open_camera360_capture">Camera360 camera effects</string>
+  <string name="action_open_camera360_edit">Camera360 picture editing</string>
   <string name="action_open_flashlight">Flashlight</string>
   <string name="action_open_mi_route">List of devices</string>
   <string name="action_open_or_close_motion">Screen rotation</string>
@@ -30,9 +32,9 @@
   <string name="add_to_contacts">Add to contact list</string>
   <string name="address">Address:</string>
   <string name="app_name">MiKey</string>
+  <string name="app_not_installed">App not installed</string>
   <string name="back_camera">Back camera</string>
   <string name="birthday">Birthday:</string>
-  <string name="buy">Buy MiKey</string>
   <string name="call_to">Call</string>
   <string name="cancel">Cancel</string>
   <string name="category_app">Application</string>
@@ -119,6 +121,7 @@
   <string name="sdcard">SD card</string>
   <string name="select_camera">Select camera</string>
   <string name="select_device">Select device</string>
+  <string name="setting_buy">Buy MiKeys</string>
   <string name="setting_feedback">Feedback</string>
   <string name="setting_instant_photo_desc">"Before taking a picture, the camera focuses"</string>
   <string name="setting_instant_photo_text">Focus before taking picture</string>
@@ -132,6 +135,14 @@
   <string name="setting_speed_quick">Faster</string>
   <string name="setting_speed_slow">Slower</string>
   <string name="setting_speed_text">Speed</string>
+  <string name="setting_toolbar">Toolbar</string>
+  <string name="setting_toolbar_desc">"Toolbar features can be quickly accessed from the notification bar to make things more convenient."</string>
+  <string name="setting_toolbar_tip">"Click the + symbol to add a new feature.
+Long press to delete.
+Create your own toolbar now!
+
+Open the toolbar,
+From the top of the screen slide downwards to use it."</string>
   <string name="setting_vibrate_desc">The phone will vibrate as notification the function was executed</string>
   <string name="setting_vibrate_text">Vibration response</string>
   <string name="settings">Settings</string>
