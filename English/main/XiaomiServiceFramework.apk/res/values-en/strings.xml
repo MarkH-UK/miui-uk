@@ -84,6 +84,7 @@
   <string name="enable_micloud">Enable cloud services</string>
   <string name="enable_sync">Enable sync</string>
   <string name="enable_sync_dspt">Sync is off</string>
+  <string name="error_device_id">Unable to acquire IMEI number</string>
   <string name="error_dup_phone">Phone has been registered</string>
   <string name="error_invalid_dev_id">Device id is invalid</string>
   <string name="error_network">Network error</string>

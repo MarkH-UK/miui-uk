@@ -156,6 +156,7 @@ Used"</string>
   <string name="settings">Data usage settings</string>
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
+  <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="stop_app_button">Stop</string>
   <string name="system_app">System Apps</string>
   <string name="text_day"/>

@@ -173,6 +173,7 @@ friends."</string>
   <string name="download">Download</string>
   <string name="download_fail">Download failed!</string>
   <string name="download_fail_confirm_continue">Downloading %s failed. Continue?</string>
+  <string name="download_refocus_data">Download refocusing data</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Duration</string>
   <string name="edit">Edit</string>
@@ -258,6 +259,9 @@ friends."</string>
   <string name="invalid_recipient_message">"Correct recipient(s) errors or they will not receive the message."</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync">This item has not been synchronized to the cloud and can not be downloaded</string>
+  <string name="item_not_sync_for_origin_image">Picture has not been synchronised to MiCloud and can not be downloaded</string>
+  <string name="item_not_sync_for_origin_video">Video has not been synchronised to MiCloud and can not be downloaded</string>
+  <string name="item_not_sync_for_refocus_data">Picture has not been synchronised to MiCloud and refocus data can not be downloaded</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
   <string name="kick_owner_user_title">Remove this member?</string>
   <string name="kick_sharer">Remove sharer</string>
@@ -374,6 +378,7 @@ friends."</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Red Eye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>
+  <string name="refocus_data_downloading">Downloading refocusing data...</string>
   <string name="remove_hidden_album">Unhide album</string>
   <string name="remove_recent_album">Remove from favorite albums</string>
   <string name="rename_failed">Rename failed</string>
@@ -507,6 +512,7 @@ friends."</string>
   <string name="try_to_send">Attempt send</string>
   <string name="turn_left">Rotate left</string>
   <string name="turn_right">Rotate right</string>
+  <string name="ubifocus_guide_text">Long press to refocus</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Failed to unpublish!</string>

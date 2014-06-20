@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ad_block_hint">%d blocked</string>
+  <string name="ad_permission_hint">"Using ad blocker may also affect app performance or prevent them from working correctly."</string>
+  <string name="ad_single_block_hint">Blocked</string>
   <string name="app_name">Guard</string>
   <string name="bl_block_info" formatted="false">Blocked: Number %d, details %d</string>
   <string name="bl_no_blacklist">No blocked numbers</string>

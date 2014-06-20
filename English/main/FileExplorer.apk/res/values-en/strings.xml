@@ -105,6 +105,7 @@
   <string name="file_info_modified">Modified:</string>
   <string name="file_info_size">Size:</string>
   <string name="file_loading">Loading...</string>
+  <string name="file_not_exist">File does not exist</string>
   <string name="file_too_large">"The file is too large and can't be uploaded"</string>
   <string name="finished">Finished</string>
   <string name="folder_exist">The folder already exists</string>
@@ -178,6 +179,7 @@ Junk"</string>
 1. Download (update the local file)
 2. Upload (update the remote file)"</string>
   <string name="open_changed_file_title">File modified</string>
+  <string name="open_file_failed">Failed to open file</string>
   <string name="operating">Running…</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_compress">Compress</string>

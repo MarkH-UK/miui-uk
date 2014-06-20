@@ -8,6 +8,7 @@
   <string name="aqi_quality_index_light_pollution">Light pollution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="bad_wallpaper_source_prompt">Failed to load wallpaper</string>
   <string name="buffering">Buffering...</string>
   <string name="cancel_action">Cancel</string>
   <string name="cancel_btn_label">Cancel</string>
@@ -174,6 +175,11 @@
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
+  <string name="status_downloaded">Downloaded</string>
+  <string name="status_downloading">Downloading</string>
+  <string name="status_installing">Installing</string>
+  <string name="status_paused">Paused</string>
+  <string name="status_pending">Pending</string>
   <string name="title_select_live_folder">Select folder</string>
   <string name="title_select_shortcut">Select shortcut</string>
   <string name="toggle_select_title">Select toggle</string>

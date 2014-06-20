@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="local_backup_section_title">Local backups</string>
-  <string name="bluetooth_device_address">Device address:</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_title">Access control</string>
@@ -332,6 +330,7 @@
   <string name="bluetooth_connection_notif_message">Touch to connect to \"%1$s\".</string>
   <string name="bluetooth_connection_permission_request">Bluetooth connection request</string>
   <string name="bluetooth_device">Unnamed Bluetooth device</string>
+  <string name="bluetooth_device_address">Device address:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Allow incoming file transfers</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Connect to Bluetooth device</string>
   <string name="bluetooth_device_advanced_online_mode_title">Connect</string>
@@ -1168,6 +1167,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
+  <string name="local_backup_section_title">Local backups</string>
   <string name="location_gps">GPS satellites</string>
   <string name="location_neighborhood_level">Allow anonymous location data to be sent to Google. Also allow permitted apps to use data from sources such as Wi-Fi and mobile networks to determine your approximate location.</string>
   <string name="location_neighborhood_level_wifi">Location determined by Wi-Fi</string>
@@ -2361,6 +2361,8 @@ Attempts Remaining :"</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
   <string name="title_dolby_control">Dobly mobile control</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">In use</string>
   <string name="title_font_size">Font size</string>
   <string name="title_install_virus_no">Install monitor off</string>
   <string name="title_install_virus_yes">Install monitor on</string>
@@ -2515,6 +2517,7 @@ Attempts Remaining :"</string>
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
+  <string name="use_network_warning">Mi Service Framework and MiCloud require a network connection</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_add_user_menu">Add user or profile</string>
   <string name="user_confirm_remove_message">Are you sure you want to remove the user and all associated data from the device?</string>

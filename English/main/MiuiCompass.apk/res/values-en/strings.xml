@@ -12,7 +12,11 @@
   <string name="dialog_title_no_network">No network found, connect via Wi-Fi or enable Data</string>
   <string name="direction_east">E</string>
   <string name="direction_north">N</string>
+  <string name="direction_north_east">NE</string>
+  <string name="direction_north_west">NW</string>
   <string name="direction_south">S</string>
+  <string name="direction_south_east">SE</string>
+  <string name="direction_south_west">SW</string>
   <string name="direction_west">W</string>
   <string name="getting_location">Getting location...</string>
   <string name="guide_toast">"There may be magnetic field interference, please calibrate the compass using the following gesture."</string>

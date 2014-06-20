@@ -242,7 +242,6 @@
   <string name="status_bar_toggle_brightness">Backlight</string>
   <string name="status_bar_toggle_data">Data</string>
   <string name="status_bar_toggle_divider">More</string>
-
   <string name="status_bar_toggle_drive_mode">Drive</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
   <string name="status_bar_toggle_gps">GPS</string>

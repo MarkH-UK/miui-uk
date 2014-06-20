@@ -149,6 +149,9 @@
   <string name="id3_modify_confirm_check">Confirm ID3 changes?</string>
   <string name="id3_modify_confirm_text">Save</string>
   <string name="impunity_declaration">The online music you are about to use is from Baidu Online Music Service. Click \"OK\" to accept and use, click \"Cancel\" to exit.</string>
+  <string name="impunity_declaration_ignore">"Don't prompt"</string>
+  <string name="impunity_declaration_settings">Always show notification with networking</string>
+  <string name="impunity_declaration_summary">When entering music, there will be popup reminder</string>
   <string name="impunity_declaration_title">Declaration</string>
   <string name="keep_quit_position_settings">Store last position</string>
   <string name="keep_quit_position_summary">Stores track of last position upon re-launch of the application</string>
@@ -313,6 +316,7 @@
   <string name="synchronize_playlist_setting">Synchronize Playlists</string>
   <string name="synchronize_playlist_summary">Synchronize playlists to MiCloud.</string>
   <string name="synchronize_to_baidu_cloud">Backup online songs in your playlists using Baidu Cloud</string>
+  <string name="take_effect_afater_restart">Music must be restarted in order for the new setting to take effect</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">High</string>
   <string name="track_bit_rate_standard">Normal</string>

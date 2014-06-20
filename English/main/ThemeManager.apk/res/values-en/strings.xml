@@ -245,6 +245,16 @@
   <string name="theme_import_from_sdcard">Import from SD card</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_select_others">Others</string>
+  <string name="theme_user_agreement_allow">Accept</string>
+  <string name="theme_user_agreement_content1">Read the applicable terms carefully before you use this product:</string>
+  <string name="theme_user_agreement_content2">" User agreement"</string>
+  <string name="theme_user_agreement_content3">" and "</string>
+  <string name="theme_user_agreement_content4">Privacy policy</string>
+  <string name="theme_user_agreement_content5">. Do you agree to requiring network?</string>
+  <string name="theme_user_agreement_remind_again">Notify when requiring network</string>
+  <string name="theme_user_agreement_remind_never">"Don't remind me"</string>
+  <string name="theme_user_agreement_remind_summary">Takes effect on next boot</string>
+  <string name="theme_user_agreement_title">User agreement</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Mix</string>
   <string name="title_local">Local</string>

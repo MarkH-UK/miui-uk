@@ -22,7 +22,10 @@
   <string name="adding_attachments">Please wait while the items are added to the slideshow.</string>
   <string name="adding_attachments_title">Adding attachments</string>
   <string name="adding_recipients">Adding recipients…</string>
+  <string name="alert_dlg_cancel_button">Cancel</string>
+  <string name="alert_dlg_ok_button">OK</string>
   <string name="app_label">Messaging</string>
+  <string name="app_name">Device Management</string>
   <string name="attach_image">Pictures</string>
   <string name="attach_record_sound">Record audio</string>
   <string name="attach_record_video">Capture video</string>
@@ -64,6 +67,8 @@
   <string name="confirm_delete_message">The message will be deleted.</string>
   <string name="confirm_dialog_locked_title">Delete locked message?</string>
   <string name="confirm_dialog_title">Delete</string>
+  <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service. Are you sure you want to cancel?</string>
+  <string name="confirm_dlg_title">Device Management</string>
   <string name="confirm_export_dialog_description">Remove selected private contact, conversation will be moved to normal SMS. Do you want to continue?</string>
   <string name="confirm_export_dialog_title">Remove private contact</string>
   <string name="confirm_no_block_positive">"Don't block and restore"</string>
@@ -171,6 +176,7 @@
   <string name="loading_all_messages">Loading all messages...</string>
   <string name="loading_conversations">Loading conversations...</string>
   <string name="loading_mms">Loading MMS…</string>
+  <string name="manage_permission_app_label">Device Management Permissions</string>
   <string name="me">Me</string>
   <string name="menu_compose_new">Compose</string>
   <string name="menu_delete_messages">Delete messages</string>
@@ -380,6 +386,12 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="select_recipient">Select recipient</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
+  <string name="send_message_dlg_check_hint">Remember choice</string>
+  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service. (Post-service is a platform by CMCC that can manage devices. It provides a service for remote settings and app updates). A free message will be sent for registration. The message will be sent once and won't read your personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to the service terms. Select “Cancel” to exit and no service will be provided from CMCC.</string>
+  <string name="send_message_dlg_title">Device Management</string>
+  <string name="send_message_notification_msg">Device Management send permissions request</string>
+  <string name="send_message_notification_tickerText">Device Management permissions request</string>
+  <string name="send_message_notification_title">Device Management</string>
   <string name="send_signature_confirm_dialog_message">No message body found. Are you sure you wish to send only the signature?</string>
   <string name="send_signature_confirm_dialog_title">Confirm Sending</string>
   <string name="send_sms">Send message</string>

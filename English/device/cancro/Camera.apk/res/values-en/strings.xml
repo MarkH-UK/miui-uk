@@ -194,6 +194,7 @@
   <string name="no_thumbnail">No thumbnail</string>
   <string name="not_enough_space">Internal storage is full</string>
   <string name="not_selectable_in_scene_mode">Not selectable in scene mode</string>
+  <string name="object_track_enable_toast">Slide on preview screen to enable object tracking.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
