@@ -615,13 +615,6 @@
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Show recent apps tray</item>
-        <item>Launch Assistant</item>
-        <item>Launch Google now</item>
-        <item>Close current app</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 second</item>
         <item>1 second</item>
