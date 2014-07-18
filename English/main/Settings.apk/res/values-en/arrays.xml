@@ -12,7 +12,6 @@
     <string-array name="power_mode_entries">
         <item>High performance</item>
         <item>Balance</item>
-        <item>Battery saving</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>After 1 minute</item>
@@ -32,7 +31,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>High performance</item>
         <item>Balance</item>
-        <item>Battery saving</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Never vibrate</item>
