@@ -2974,4 +2974,5 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="zone_auto_summaryOn">Use network-provided time zone</string>
   <string name="zone_list_menu_sort_alphabetically">Sort alphabetically</string>
   <string name="zone_list_menu_sort_by_timezone">Sort by time zone</string>
+  <string name="add_auto_startup_application">Add application</string>
 </resources>
