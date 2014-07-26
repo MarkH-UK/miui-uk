@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+<string-array name="screen_key_long_press_action">
+        <item>None</item>
+        <item>Show recent apps tray</item>
+        <item>Launch Assistant</item>
+        <item>Launch Google now</item>
+        <item>Close current app</item>
+		<item>Show Menu</item>
+    </string-array>
+</resources>
