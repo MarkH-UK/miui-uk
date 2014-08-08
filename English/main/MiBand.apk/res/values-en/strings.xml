@@ -146,7 +146,7 @@
 	<string name="share_to_content">MiBand campaign sharing</string> 
 	<string name="share_goal_tips_succ">"No matter how great the target, you can complete it step by step"</string> 
 	<string name="share_goal_tips_fail">Sharing not successful, please complete the first steps</string> 
-	<string name="person_info_goal_info">>According to the World Health Organisation, you need to exercise every day for 40 minutes, including at least a minimum of 8,000 steps</string> 
+	<string name="person_info_goal_info">According to the World Health Organisation, you need to exercise every day for 40 minutes, including at least a minimum of 8,000 steps</string> 
 	<string name="person_info_goal_info_young">According to the World Health Organisation, you need to exercise every day for 60 minutes, including at least a minimum of 12,000 steps</string> 
 	<string name="set_person_goal">Goal settings</string> 
 	<string name="feedback">Feedback</string> 
@@ -314,7 +314,7 @@
 	<string name="your_gender">Your gender</string> 
 	<string name="donot_bind">Dont bind</string> 
 	<string name="welcom_back">Welcome back</string> 
-	<string name="bracelet_not_connected_bat_unknown"MiBand not connected, power status unknown</string> 
+	<string name="bracelet_not_connected_bat_unknown">MiBand not connected, power status unknown</string> 
 	<string name="am">AM</string> 
 	<string name="pm">PM</string> 
 	<string name="week">Week</string> 
@@ -341,7 +341,7 @@
 	<string name="share_play_ground_format">Equivilent of running round a standard yard %1$s laps</string> 
 	<string name="share_step_description_monthly">"Travelled %1$s, %2$s total calories burned %3$sKcal, saved %4$s litres of fuel, walked a total of %5$s per day and %6$s steps"</string> 
 	<string name="marathon_format_0">%1$s is equivilent to a full marathon race</string> 
-<string name="marathon_format_1">More than %1$s number of a full marathon</string> 
+        <string name="marathon_format_1">More than %1$s number of a full marathon</string> 
 	<string name="half_marathon_format_0">Same as %1$s half marathon</string> 
 	<string name="half_marathon_format_1">More than %1$s number of marathon</string> 
 	<string name="share_continue_goal_format">"Walking total %1$s steps, average walking %2$s steps per day %3$s%4$s"</string> 
@@ -358,9 +358,9 @@
 	<string name="unlock_screen_set_use_bracelet_tips">Confirm the password set in step one</string> 
 	<string name="unlock_screen_set_use_bracelet">Step two, using the hand ring to set the unlock</string> 
 	<string name="unlock_screen_set_success">MiBand unlock has been set successfully</string> 
-<string name="unlock_screen_modify_unlock">"If you need to modify please open Settings -> All settings -> Security &amp; privacy -> Screen security"</string> 
+        <string name="unlock_screen_modify_unlock">"If you need to modify please open Settings -> All settings -> Security &amp; privacy -> Screen security"</string> 
 	<string name="bind_weixin_title">" after clicking "connect to Wechat" will create a QR code in your album, use the scan QR code in WeChat then you can connect  "</string> 
-	<string name="bind_weixin_tips">"        also, you can use a PC by visiting <font color=blue>http://hm.xiaomi.com/login.do</font> to get the QR code, using the WeChat QR code scanner to connect it"</string> 
+	<string name="bind_weixin_tips">"        also, you can use a PC by visiting http://hm.xiaomi.com/login.do to get the QR code, using the WeChat QR code scanner to connect it"</string> 
 	<string name="bind_weixin_now">Generating QR code, please wait...</string> 
 	<string name="bind_weixin_failed">Connection failed, please try again</string> 
 	<string name="bind_weixin_succ">Connected successfully, use your wechat to try!</string> 
