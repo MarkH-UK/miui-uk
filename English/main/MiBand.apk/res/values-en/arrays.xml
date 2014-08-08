@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+ <string-array name="weeks">
+  <item>Monday</item> 
+  <item>Tuesday</item> 
+  <item>Wednesday</item> 
+  <item>Thursday</item> 
+  <item>Friday</item> 
+  <item>Saturday</item> 
+  <item>Sunday</item> 
+  </string-array>
+ <string-array name="weeks_short">
+  <item>Mon</item> 
+  <item>Tue</item> 
+  <item>Wed</item> 
+  <item>Thu</item> 
+  <item>Fri</item> 
+  <item>Sat</item> 
+  <item>Sun</item> 
+  </string-array>
+ <string-array name="months">
+  <item>January</item> 
+  <item>February</item> 
+  <item>March</item> 
+  <item>April</item> 
+  <item>May</item> 
+  <item>June</item> 
+  <item>July</item> 
+  <item>August</item> 
+  <item>September</item> 
+  <item>October</item> 
+  <item>November</item> 
+  <item>December</item> 
+  </string-array>
+ <string-array name="select_days">
+  <item>Monday</item> 
+  <item>Tuesday</item> 
+  <item>Wednesday</item> 
+  <item>Thursday</item> 
+  <item>Friday</item> 
+  <item>Saturday</item> 
+  <item>Sunday</item> 
+  </string-array>
+ <string-array name="short_days">
+  <item>Mon</item> 
+  <item>Tue</item> 
+  <item>Wed</item> 
+  <item>Thu</item> 
+  <item>Fri</item> 
+  <item>Sat</item> 
+  <item>Sun</item> 
+  </string-array>
+ <string-array name="select_days_simple">
+  <item>Only once</item> 
+  <item>Daily</item> 
+  <item>Monday to Friday</item> 
+  <item>Custom</item> 
+  </string-array>
+</resources>

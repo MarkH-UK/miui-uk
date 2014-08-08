@@ -81,6 +81,7 @@
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
   <string name="add_account_label">Add account</string>
+  <string name="add_auto_startup_application">Add application</string>
   <string name="add_blacklist">Add to blocklist</string>
   <string name="add_button">Add</string>
   <string name="add_device_admin">Activate</string>
@@ -2974,5 +2975,4 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="zone_auto_summaryOn">Use network-provided time zone</string>
   <string name="zone_list_menu_sort_alphabetically">Sort alphabetically</string>
   <string name="zone_list_menu_sort_by_timezone">Sort by time zone</string>
-  <string name="add_auto_startup_application">Add application</string>
 </resources>
